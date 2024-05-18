@@ -78,9 +78,3 @@ Following these steps should resolve the shutdown issues, resulting in a smooth 
 
 If you have additional insights, alternative fixes, or further context, please contribute by opening an issue or submitting a pull request.
 
-## License
-
-This project is licensed under the MIT License.
-
-```
-
