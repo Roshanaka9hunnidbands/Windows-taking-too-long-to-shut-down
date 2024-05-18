@@ -1,6 +1,5 @@
-# how-to-fix-windows-stuck-on-a-bootloop-when-connected-to-a-controller
+# windows taking too long to shut down when connected to a third party or a first party xbox controller with a usb 2.4 Ghz Receiver
 
-```markdown
 # Fix for Shutdown Issues with Non-Bluetooth Xbox Controllers on Windows 11
 
 ## Overview
