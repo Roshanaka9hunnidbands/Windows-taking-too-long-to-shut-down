@@ -1,4 +1,4 @@
-# windows taking too long to shut down when connected to a third party or a first party xbox controller with a usb 2.4 Ghz Receiver
+# Windows taking too long to shut down when connected to a third party or a first party xbox controller with a usb 2.4 Ghz Receiver
 
 # Fix for Shutdown Issues with Non-Bluetooth Xbox Controllers on Windows 11
 
