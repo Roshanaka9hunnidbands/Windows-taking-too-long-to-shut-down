@@ -18,13 +18,13 @@ Many Windows 11 users have reported consistent issues with shutting down their c
 
 ### Lack of Documentation
 
-Despite being a widespread issue, there has been little to no credible documentation or official acknowledgment from Microsoft or other major sources. This lack of visibility has left many users without a clear solution, leading to frustration and repeated troubleshooting attempts.
+Despite being a widespread issue, there has been little to no credible documentation or official acknowledgement from Microsoft or other major sources. This lack of visibility has left many users without a clear solution, leading to frustration and repeated troubleshooting attempts.
 
 ## Solution
 
 ### Fix Using a 2.4 GHz Receiver and Adjusting GameInput Service Settings
 
-A reliable fix involves using a 2.4 GHz receiver to spoof the computer into believing an Xbox 360 controller is always connected and adjusting the recovery settings of the GameInput Service in Windows. Additionally, ensuring the receiver is always shown in Device Manager and disabling it to prevent interference with existing controllers' connections is crucial.
+A reliable fix involves using a 2.4 GHz receiver to spoof the computer into believing an Xbox 360 controller is always connected and adjusting the recovery settings of the GameInput Service in Windows. Additionally, it is crucial to ensure the receiver is always shown in Device Manager and disable it to prevent interference with existing controllers' connections.
 
 ### Steps to Implement the Fix
 
@@ -37,7 +37,7 @@ A reliable fix involves using a 2.4 GHz receiver to spoof the computer into beli
    - Locate the 2.4 GHz receiver under **Universal Serial Bus controllers** or **Human Interface Devices**.
    - Make sure the receiver is listed and recognized by the system.
 3. **Disable the Receiver**:
-   - Right-click on the 2.4 GHz receiver in Device Manager and select **Disable device**. This prevents interference with the existing controllers' 2.4 GHz connection.
+   - Right-click on the 2.4 GHz receiver in Device Manager and select **Disable device**. This prevents interference with the existing controller's 2.4 GHz connection.
 
 #### 2. Adjusting GameInput Service Settings
 
