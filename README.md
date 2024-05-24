@@ -70,6 +70,4 @@ Following these steps should resolve the shutdown issues, resulting in a smooth 
 - This fix has been consistently effective but might not address all potential underlying causes related to specific hardware or software configurations.
 - User feedback and further community testing are welcome to refine this workaround.
 
-## Contributing
 
-If you have additional insights, alternative fixes, or further context, please contribute by opening an issue or submitting a pull request.
