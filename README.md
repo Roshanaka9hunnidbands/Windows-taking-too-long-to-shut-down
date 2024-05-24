@@ -2,7 +2,7 @@
 
 ### Problem Description
 
-If you're experiencing issues with your Xbox 360 controller disconnecting on Windows 11, particularly with AMD Ryzen 5 7600 (non-X variant) systems after the February 23H2 update, you're not alone. The root cause of this issue is the receiver going into standby mode, which causes the controller to disappear from the Device Manager when turned off. This problem is not with the controller itself but with the receiver.
+If you're experiencing issues with your Xbox 360 controller disconnecting on Windows 11, particularly with AMD Ryzen 5 7600 (non-X variant) systems after the February 23H2 update, you're not alone. The root cause of this issue lies primarily with the receiver going into standby mode, compounded by the behavior of Windows 11 after recent updates.
 
 ### Symptoms
 - Xbox 360 controller disconnects and disappears from the Device Manager when turned off.
@@ -31,9 +31,9 @@ While waiting for Microsoft to address this issue in a future update, you can tr
    - Use sleep mode instead of shutting down your PC to maintain the connection.
 
 ### Conclusion
-The issue primarily stems from the receiver entering standby mode, causing disconnections. By using a more reliable receiver and adjusting your usage habits, you can mitigate the problem until a permanent fix is released in a future Windows update.
+The issue primarily stems from the receiver entering standby mode and the way Windows 11 handles this scenario after recent updates. By using a more reliable receiver and adjusting your usage habits, you can mitigate the problem until a permanent fix is released in a future Windows update.
 
-Feel free to open an issue if you have further questions or need additional assistance. Your feedback helps improve the solution for everyone facing similar problems. 
+Feel free to open an issue if you have further questions or need additional assistance. Your feedback helps improve the solution for everyone facing similar problems.
 
 ---
 
